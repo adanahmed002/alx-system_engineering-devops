@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls, named __ls__
+copy unexisting .html files to the parent of the current directory
