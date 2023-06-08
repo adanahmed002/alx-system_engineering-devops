@@ -1,1 +1,1 @@
-listin all current, parent and boot directory in that order
+Write a script that prints the type of the file named iamafile
